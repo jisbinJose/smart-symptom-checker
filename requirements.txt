@@ -9,3 +9,5 @@ scikit-learn
 datasets
 colorama
 streamlit-webrtc
+opencv-python
+opencv-contrib-python
