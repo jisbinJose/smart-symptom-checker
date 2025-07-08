@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+opencv-python
+Pillow
+numpy
+matplotlib
+scikit-learn
+datasets
+colorama
+streamlit-webrtc
